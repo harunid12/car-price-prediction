@@ -20,9 +20,7 @@ Model yang digunakan: **Ridge Regression** (disimpan dalam file `ridge.pkl`).
 ```
 project/
 │── main.py
-│── model/
-│     └── ridge.pkl
-│── static/        (opsional, jika ingin pakai frontend)
+│── ridge.pkl
 │── requirements.txt
 └── README.md
 ```
