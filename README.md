@@ -31,8 +31,8 @@ project/
 
 ### 1️⃣ Clone Repo
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/harunid12/car-price-prediction.git
+cd car-price-prediction
 ```
 
 ### 2️⃣ Buat Virtual Environment
